@@ -1,36 +1,22 @@
-me": "yar",
-  "description": "Cookie jar plugin",
-  "version": "2.2.0",
-  "repository": "git://github.com/spumko/yar",
+{
+  "name": "scangoat",
+  "description": "test package for artifacts",
+  "version": "0.0.1",
+  "repository": "git://github.com/codelion/scangoat",
   "main": "index",
   "keywords": [
-    "hapi",
-    "plugin",
-    "cookies",
-    "jar",
-    "session"
+    "soureclear",
+    "node",
+    "artifacts",
+    "scanner",
+    "js"
   ],
   "engines": {
     "node": ">=0.10.22"
   },
   "dependencies": {
-    "node-uuid": "1.4.x",
-    "hoek": "2.x.x"
-  },
-  "peerDependencies": {
-    "hapi": ">=2.x.x"
-  },
-  "devDependencies": {
-    "hapi": "4.x.x",
-    "lab": "3.x.x"
-  },
-  "scripts": {
-    "test": "make test-cov"
-  },
-  "licenses": [
-    {
-      "type": "BSD",
-      "url": "http://github.com/spumko/yar/raw/master/LICENSE"
-    }
-  ]
+    "yar": "2.0.0",
+    "hoek": "2.x.x",
+    "connect":"2.1.9"
+  }
 }
