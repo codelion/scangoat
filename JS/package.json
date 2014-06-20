@@ -15,8 +15,6 @@
     "node": ">=0.10.22"
   },
   "dependencies": {
-    "yar": "2.0.0",
-    "hoek": "2.x.x",
-    "connect":"2.1.9"
+    "yar": "1.0.0"
   }
 }
