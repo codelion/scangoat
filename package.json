@@ -1,0 +1,20 @@
+{
+  "name": "scangoat",
+  "description": "test package for artifacts",
+  "version": "0.0.1",
+  "repository": "git://github.com/codelion/scangoat",
+  "main": "index",
+  "keywords": [
+    "soureclear",
+    "node",
+    "artifacts",
+    "scanner",
+    "js"
+  ],
+  "engines": {
+    "node": ">=0.10.22"
+  },
+  "dependencies": {
+    "yar": "1.0.0"
+  }
+}
