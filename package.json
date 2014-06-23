@@ -15,6 +15,7 @@
     "node": ">=0.10.22"
   },
   "dependencies": {
-    "yar": "1.0.0"
+    "yar": "1.0.0",
+    "ep_imageconvert": "0.0.2"
   }
 }
