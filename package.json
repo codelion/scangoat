@@ -33,6 +33,7 @@
     "marked": "0.3.0",
     "st": "0.2.4",
     "hubot-scripts": "2.4.3",
-    "handlebars": "1.0.6"
+    "handlebars": "1.0.6",
+    "browserify": "1.0.0"
   }
 }
